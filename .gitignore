@@ -1,0 +1,8 @@
+.deps/
+Makefile
+config.h
+config.log
+config.status
+main.o
+sshpass.exe
+stamp-h1
